@@ -35,4 +35,4 @@ This project demonstrates my skills in data analysis, visualization, and automat
 ## 🚀 **How to Run**
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/banking-data-analysis.git
+git clone https://github.com/imsatya16/banking-data-analysis.git
